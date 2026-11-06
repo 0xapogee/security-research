@@ -11,7 +11,7 @@
 | **Severity** | Moderate - CVSS 3.1 **4.4** (`AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N`) |
 | **Advisory** | [GHSA-gh79-j73r-7mqp](https://github.com/DLR-RM/python-jsonconversion/security/advisories/GHSA-gh79-j73r-7mqp) |
 | **CVE** | Pending |
-| **Reporter** | Jonathan Peri (https://github.com/periiDevl) |
+| **Reporter** | Jonathan Peri |
  
 
 ## from github.com/DLR-RM/python-jsonconversion/security/advisories/GHSA-gh79-j73r-7mqp:
@@ -90,8 +90,8 @@ Applications that deserialize only trusted JSON are less exposed to this attack 
  
 ## Credit
  
-Discovered and reported by **Jonathan Peri** (https://github.com/periiDevl).
-Coordinated by Johannes Ernst (https://github.com/JohannesErnst).
+Discovered and reported by **Jonathan Peri**.
+Coordinated by Johannes Ernst.
  
 Advisory text reproduced from
 [GHSA-gh79-j73r-7mqp](https://github.com/DLR-RM/python-jsonconversion/security/advisories/GHSA-gh79-j73r-7mqp),
